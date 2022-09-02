@@ -1,0 +1,10 @@
+server:
+  port: 8001
+
+# 自定义starter配置
+cn:
+  shh:
+    selfstarter:
+      prefix: hello
+      suffix: 666
+
